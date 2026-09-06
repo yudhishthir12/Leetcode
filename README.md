@@ -40,11 +40,13 @@
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/yudhishthir12/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/yudhishthir12/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0704-binary-search](https://github.com/yudhishthir12/Leetcode/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/yudhishthir12/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/yudhishthir12/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0704-binary-search](https://github.com/yudhishthir12/Leetcode/tree/master/0704-binary-search) |
 ## Matrix
 |  |
 | ------- |
