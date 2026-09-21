@@ -52,6 +52,7 @@
 | [0074-search-a-2d-matrix](https://github.com/yudhishthir12/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/yudhishthir12/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/yudhishthir12/Leetcode/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/yudhishthir12/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -59,6 +60,7 @@
 | [0074-search-a-2d-matrix](https://github.com/yudhishthir12/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/yudhishthir12/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/yudhishthir12/Leetcode/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/yudhishthir12/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Matrix
 |  |
 | ------- |
@@ -101,4 +103,8 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/yudhishthir12/Leetcode/tree/master/0148-sort-list) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/yudhishthir12/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
