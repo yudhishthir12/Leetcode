@@ -53,6 +53,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/yudhishthir12/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/yudhishthir12/Leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/yudhishthir12/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/yudhishthir12/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Binary Search
 |  |
 | ------- |
@@ -61,6 +62,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/yudhishthir12/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/yudhishthir12/Leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/yudhishthir12/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/yudhishthir12/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Matrix
 |  |
 | ------- |
