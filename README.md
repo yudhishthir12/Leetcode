@@ -48,6 +48,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/yudhishthir12/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/yudhishthir12/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/yudhishthir12/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/yudhishthir12/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/yudhishthir12/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/yudhishthir12/Leetcode/tree/master/0567-permutation-in-string) |
@@ -65,6 +66,7 @@
 | [0074-search-a-2d-matrix](https://github.com/yudhishthir12/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/yudhishthir12/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yudhishthir12/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/yudhishthir12/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/yudhishthir12/Leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/yudhishthir12/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/yudhishthir12/Leetcode/tree/master/0268-missing-number) |
@@ -119,12 +121,14 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/yudhishthir12/Leetcode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/yudhishthir12/Leetcode/tree/master/0169-majority-element) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/yudhishthir12/Leetcode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/yudhishthir12/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/yudhishthir12/Leetcode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/yudhishthir12/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/yudhishthir12/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/yudhishthir12/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Merge Sort
@@ -139,4 +143,12 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/yudhishthir12/Leetcode/tree/master/0268-missing-number) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/yudhishthir12/Leetcode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/yudhishthir12/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
