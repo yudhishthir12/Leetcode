@@ -30,6 +30,7 @@
 | [0234-palindrome-linked-list](https://github.com/yudhishthir12/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/yudhishthir12/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/yudhishthir12/Leetcode/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/yudhishthir12/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/yudhishthir12/Leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/yudhishthir12/Leetcode/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/yudhishthir12/Leetcode/tree/master/0876-middle-of-the-linked-list) |
@@ -48,6 +49,7 @@
 | [0141-linked-list-cycle](https://github.com/yudhishthir12/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/yudhishthir12/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0268-missing-number](https://github.com/yudhishthir12/Leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/yudhishthir12/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/yudhishthir12/Leetcode/tree/master/0567-permutation-in-string) |
 ## Sliding Window
 |  |
@@ -67,6 +69,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/yudhishthir12/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/yudhishthir12/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/yudhishthir12/Leetcode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/yudhishthir12/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/yudhishthir12/Leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/yudhishthir12/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/yudhishthir12/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -78,6 +81,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yudhishthir12/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/yudhishthir12/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/yudhishthir12/Leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/yudhishthir12/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/yudhishthir12/Leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/yudhishthir12/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/yudhishthir12/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -122,6 +126,7 @@
 | [0088-merge-sorted-array](https://github.com/yudhishthir12/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/yudhishthir12/Leetcode/tree/master/0148-sort-list) |
 | [0268-missing-number](https://github.com/yudhishthir12/Leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/yudhishthir12/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Merge Sort
 |  |
 | ------- |
