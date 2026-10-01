@@ -160,4 +160,20 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/yudhishthir12/Leetcode/tree/master/0053-maximum-subarray) |
+## Depth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/yudhishthir12/Leetcode/tree/master/0547-number-of-provinces) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/yudhishthir12/Leetcode/tree/master/0547-number-of-provinces) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/yudhishthir12/Leetcode/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/yudhishthir12/Leetcode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
