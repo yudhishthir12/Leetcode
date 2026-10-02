@@ -78,6 +78,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/yudhishthir12/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/yudhishthir12/Leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/yudhishthir12/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/yudhishthir12/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/yudhishthir12/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Binary Search
 |  |
@@ -97,6 +98,7 @@
 | [0048-rotate-image](https://github.com/yudhishthir12/Leetcode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/yudhishthir12/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/yudhishthir12/Leetcode/tree/master/0200-number-of-islands) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/yudhishthir12/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -172,6 +174,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/yudhishthir12/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/yudhishthir12/Leetcode/tree/master/0547-number-of-provinces) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/yudhishthir12/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Union-Find
 |  |
 | ------- |
