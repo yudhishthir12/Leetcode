@@ -58,6 +58,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/yudhishthir12/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/yudhishthir12/Leetcode/tree/master/0567-permutation-in-string) |
+| [0643-maximum-average-subarray-i](https://github.com/yudhishthir12/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 ## Array
 |  |
 | ------- |
@@ -76,6 +77,7 @@
 | [0268-missing-number](https://github.com/yudhishthir12/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/yudhishthir12/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/yudhishthir12/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0643-maximum-average-subarray-i](https://github.com/yudhishthir12/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/yudhishthir12/Leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/yudhishthir12/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/yudhishthir12/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
