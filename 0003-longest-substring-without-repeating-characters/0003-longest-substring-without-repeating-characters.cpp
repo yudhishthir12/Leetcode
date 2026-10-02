@@ -4,7 +4,7 @@ public:
         int l=0;
         int maxi=0;
         set<char> st;
-        for(int r=l;r<s.size();r++){
+        for(int r=0;r<s.size();r++){
             while(st.count(s[r])){
                 st.erase(s[l]);
                 l++;
