@@ -69,6 +69,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/yudhishthir12/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/yudhishthir12/Leetcode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/yudhishthir12/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/yudhishthir12/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/yudhishthir12/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Array
 |  |
@@ -91,6 +92,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/yudhishthir12/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/yudhishthir12/Leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/yudhishthir12/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/yudhishthir12/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/yudhishthir12/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/yudhishthir12/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Binary Search
@@ -104,6 +106,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/yudhishthir12/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/yudhishthir12/Leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/yudhishthir12/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/yudhishthir12/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/yudhishthir12/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Matrix
 |  |
@@ -116,6 +119,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/yudhishthir12/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/yudhishthir12/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Linked List
 |  |
 | ------- |
