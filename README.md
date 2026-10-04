@@ -7,12 +7,14 @@
 | [0048-rotate-image](https://github.com/yudhishthir12/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/yudhishthir12/Leetcode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/yudhishthir12/Leetcode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/yudhishthir12/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/yudhishthir12/Leetcode/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/yudhishthir12/Leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/yudhishthir12/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/yudhishthir12/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/yudhishthir12/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
@@ -175,6 +177,7 @@
 | ------- |
 | [0136-single-number](https://github.com/yudhishthir12/Leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/yudhishthir12/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/yudhishthir12/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/yudhishthir12/Leetcode/tree/master/0268-missing-number) |
 ## Counting
 |  |
