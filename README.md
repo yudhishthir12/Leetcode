@@ -57,6 +57,7 @@
 | [0141-linked-list-cycle](https://github.com/yudhishthir12/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/yudhishthir12/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/yudhishthir12/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/yudhishthir12/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/yudhishthir12/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/yudhishthir12/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/yudhishthir12/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -91,6 +92,7 @@
 | [0189-rotate-array](https://github.com/yudhishthir12/Leetcode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/yudhishthir12/Leetcode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/yudhishthir12/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/yudhishthir12/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/yudhishthir12/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/yudhishthir12/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/yudhishthir12/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -162,6 +164,7 @@
 | [0088-merge-sorted-array](https://github.com/yudhishthir12/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/yudhishthir12/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/yudhishthir12/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/yudhishthir12/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/yudhishthir12/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/yudhishthir12/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Merge Sort
