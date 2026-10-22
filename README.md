@@ -155,6 +155,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/yudhishthir12/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/yudhishthir12/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/yudhishthir12/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Divide and Conquer
 |  |
@@ -204,6 +205,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/yudhishthir12/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/yudhishthir12/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/yudhishthir12/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/yudhishthir12/Leetcode/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
@@ -225,8 +227,10 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/yudhishthir12/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/yudhishthir12/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/yudhishthir12/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/yudhishthir12/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
