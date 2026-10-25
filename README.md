@@ -42,6 +42,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yudhishthir12/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/yudhishthir12/Leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/yudhishthir12/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/yudhishthir12/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/yudhishthir12/Leetcode/tree/master/0242-valid-anagram) |
@@ -56,6 +57,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/yudhishthir12/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yudhishthir12/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/yudhishthir12/Leetcode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/yudhishthir12/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/yudhishthir12/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/yudhishthir12/Leetcode/tree/master/0169-majority-element) |
@@ -89,6 +91,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yudhishthir12/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/yudhishthir12/Leetcode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/yudhishthir12/Leetcode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/yudhishthir12/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/yudhishthir12/Leetcode/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/yudhishthir12/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/yudhishthir12/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -170,6 +173,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/yudhishthir12/Leetcode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/yudhishthir12/Leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/yudhishthir12/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/yudhishthir12/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/yudhishthir12/Leetcode/tree/master/0169-majority-element) |
