@@ -58,6 +58,7 @@
 | [0001-two-sum](https://github.com/yudhishthir12/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yudhishthir12/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/yudhishthir12/Leetcode/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/yudhishthir12/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/yudhishthir12/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/yudhishthir12/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/yudhishthir12/Leetcode/tree/master/0169-majority-element) |
@@ -97,6 +98,7 @@
 | [0053-maximum-subarray](https://github.com/yudhishthir12/Leetcode/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/yudhishthir12/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/yudhishthir12/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0128-longest-consecutive-sequence](https://github.com/yudhishthir12/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/yudhishthir12/Leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yudhishthir12/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/yudhishthir12/Leetcode/tree/master/0169-majority-element) |
@@ -229,6 +231,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/yudhishthir12/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/yudhishthir12/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/yudhishthir12/Leetcode/tree/master/0547-number-of-provinces) |
 ## Graph Theory
