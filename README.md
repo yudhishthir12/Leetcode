@@ -114,6 +114,7 @@
 | [0219-contains-duplicate-ii](https://github.com/yudhishthir12/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/yudhishthir12/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/yudhishthir12/Leetcode/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/yudhishthir12/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/yudhishthir12/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0454-4sum-ii](https://github.com/yudhishthir12/Leetcode/tree/master/0454-4sum-ii) |
 | [0525-contiguous-array](https://github.com/yudhishthir12/Leetcode/tree/master/0525-contiguous-array) |
@@ -150,6 +151,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/yudhishthir12/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/yudhishthir12/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/yudhishthir12/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/yudhishthir12/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/yudhishthir12/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -267,4 +269,8 @@
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/yudhishthir12/Leetcode/tree/master/0179-largest-number) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/yudhishthir12/Leetcode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
