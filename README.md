@@ -79,6 +79,7 @@
 | [0567-permutation-in-string](https://github.com/yudhishthir12/Leetcode/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/yudhishthir12/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/yudhishthir12/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1124-longest-well-performing-interval](https://github.com/yudhishthir12/Leetcode/tree/master/1124-longest-well-performing-interval) |
 | [1248-count-number-of-nice-subarrays](https://github.com/yudhishthir12/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Sliding Window
 |  |
@@ -132,6 +133,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/yudhishthir12/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/yudhishthir12/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/yudhishthir12/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1124-longest-well-performing-interval](https://github.com/yudhishthir12/Leetcode/tree/master/1124-longest-well-performing-interval) |
 | [1248-count-number-of-nice-subarrays](https://github.com/yudhishthir12/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/yudhishthir12/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Binary Search
@@ -164,6 +166,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/yudhishthir12/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/yudhishthir12/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/yudhishthir12/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1124-longest-well-performing-interval](https://github.com/yudhishthir12/Leetcode/tree/master/1124-longest-well-performing-interval) |
 | [1248-count-number-of-nice-subarrays](https://github.com/yudhishthir12/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Linked List
 |  |
@@ -189,6 +192,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/yudhishthir12/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/yudhishthir12/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/yudhishthir12/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [1124-longest-well-performing-interval](https://github.com/yudhishthir12/Leetcode/tree/master/1124-longest-well-performing-interval) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -286,4 +290,8 @@
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/yudhishthir12/Leetcode/tree/master/0523-continuous-subarray-sum) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1124-longest-well-performing-interval](https://github.com/yudhishthir12/Leetcode/tree/master/1124-longest-well-performing-interval) |
 <!---LeetCode Topics End-->
