@@ -10,6 +10,7 @@
 | [0231-power-of-two](https://github.com/yudhishthir12/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/yudhishthir12/Leetcode/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/yudhishthir12/Leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0779-k-th-symbol-in-grammar](https://github.com/yudhishthir12/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [1248-count-number-of-nice-subarrays](https://github.com/yudhishthir12/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Recursion
 |  |
@@ -18,6 +19,7 @@
 | [0206-reverse-linked-list](https://github.com/yudhishthir12/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/yudhishthir12/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/yudhishthir12/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0779-k-th-symbol-in-grammar](https://github.com/yudhishthir12/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 ## Two Pointers
 |  |
 | ------- |
@@ -239,6 +241,7 @@
 | [0191-number-of-1-bits](https://github.com/yudhishthir12/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/yudhishthir12/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/yudhishthir12/Leetcode/tree/master/0268-missing-number) |
+| [0779-k-th-symbol-in-grammar](https://github.com/yudhishthir12/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 ## Counting
 |  |
 | ------- |
