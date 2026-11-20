@@ -9,7 +9,7 @@ public:
         return ans;
     }
     void solve(int open,int close,string output,vector<string> &ans){
-        if(open==0 & close==0){
+        if(open==0 && close==0){
             ans.push_back(output);
             return;
         }
