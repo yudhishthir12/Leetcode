@@ -117,6 +117,7 @@
 | [0059-spiral-matrix-ii](https://github.com/yudhishthir12/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/yudhishthir12/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/yudhishthir12/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/yudhishthir12/Leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/yudhishthir12/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/yudhishthir12/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/yudhishthir12/Leetcode/tree/master/0136-single-number) |
@@ -238,6 +239,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/yudhishthir12/Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/yudhishthir12/Leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/yudhishthir12/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/yudhishthir12/Leetcode/tree/master/0231-power-of-two) |
@@ -318,6 +320,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/yudhishthir12/Leetcode/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/yudhishthir12/Leetcode/tree/master/0078-subsets) |
 ## Bracket Sequences
 |  |
 | ------- |
