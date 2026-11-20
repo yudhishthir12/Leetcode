@@ -47,6 +47,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yudhishthir12/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/yudhishthir12/Leetcode/tree/master/0006-zigzag-conversion) |
+| [0022-generate-parentheses](https://github.com/yudhishthir12/Leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/yudhishthir12/Leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/yudhishthir12/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/yudhishthir12/Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -253,6 +254,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/yudhishthir12/Leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/yudhishthir12/Leetcode/tree/master/0053-maximum-subarray) |
 ## Depth-First Search
 |  |
@@ -312,4 +314,12 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/yudhishthir12/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/yudhishthir12/Leetcode/tree/master/0059-spiral-matrix-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/yudhishthir12/Leetcode/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/yudhishthir12/Leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
