@@ -12,6 +12,7 @@
 | [0523-continuous-subarray-sum](https://github.com/yudhishthir12/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0779-k-th-symbol-in-grammar](https://github.com/yudhishthir12/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [1248-count-number-of-nice-subarrays](https://github.com/yudhishthir12/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1922-count-good-numbers](https://github.com/yudhishthir12/Leetcode/tree/master/1922-count-good-numbers) |
 ## Recursion
 |  |
 | ------- |
@@ -20,6 +21,7 @@
 | [0231-power-of-two](https://github.com/yudhishthir12/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/yudhishthir12/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0779-k-th-symbol-in-grammar](https://github.com/yudhishthir12/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
+| [1922-count-good-numbers](https://github.com/yudhishthir12/Leetcode/tree/master/1922-count-good-numbers) |
 ## Two Pointers
 |  |
 | ------- |
